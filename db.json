@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "20",
+      "firstName": "Shri",
+      "age": 33,
+      "companyId": "31"
+    },
+    {
+      "id": "21",
+      "firstName": "Sind",
+      "age": 27,
+      "companyId": "31"
+    },
+    {
+      "id": "22",
+      "firstName": "Ani",
+      "age": 25,
+      "companyId": "31"
+    },
+    {
+      "firstName": "Alankruti",
+      "age": 20,
+      "id": "EVl41At"
+    }
+  ],
+  "companies": [
+    {
+      "id": "30",
+      "name": "Intuit",
+      "description": "Software company"
+    },
+    {
+      "id": "31",
+      "name": "SJSU",
+      "description": "Educational Institution"
+    }
+  ]
+}
